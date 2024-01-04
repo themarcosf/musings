@@ -1,0 +1,9 @@
+ https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b
+
+https://en.wikipedia.org/wiki/Backpropagation
+
+https://towardsdatascience.com/gradient-descent-algorithm-a-deep-dive-cf04e8115f21
+
+https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html
+
+https://openai.com/research/learning-dexterity
